@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @NekoSimba
+- 👋 Hi, I’m thefox29 in discord. Called as Fox29 </>
 - 👀 I’m interested in creating scripts ...
 - 🌱 I’m currently learning Python & lua language...
 
-- 📫 I need a teacher for lua language, my discord: thefox29
+- 📫 My discord: thefox29
 
 
 <!---
-Hi, Dont waste your time, by reading more.
+Thanks for reading! My name is not thefox29, because it's my main github's name. I just do with this acc public ones.
 --->
